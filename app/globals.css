@@ -1,0 +1,24 @@
+@import 'tailwindcss';
+
+/* The whole design system. Delete theme/ and nothing else defines a token. */
+@import '../theme/index.css';
+
+/* --- AOS guards ---------------------------------------------------------
+   aos.css sets opacity:0 on every [data-aos^="fade"] as soon as it loads, so
+   the page would be blank if the library never runs. AOS marks each element
+   with .aos-init once it has taken over; until then, keep content visible.
+   These rules stay outside @layer so they outrank aos.css whichever order the
+   two stylesheets land in. */
+
+html [data-aos]:not(.aos-init) {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html [data-aos] {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+}
