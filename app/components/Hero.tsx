@@ -132,7 +132,7 @@ export default function Hero() {
 
         <p className="mb-8 max-w-[480px] text-lg leading-[1.55] text-white/90">
           One app for discovering restaurants, cafés, lounges and activities nearby, instead of five
-          apps and a long group chat. For venues, it&apos;s a direct line to customers deciding right
+          apps and a long group chat. For businesses, it&apos;s a direct line to customers deciding right
           now.
         </p>
 

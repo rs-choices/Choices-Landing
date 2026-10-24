@@ -28,7 +28,7 @@ export default function ForBusiness() {
 
         <Image
           src="/assets/photos/popular-offer-hero.jpg"
-          alt="A venue offer shown to nearby customers"
+          alt="A business's offer shown to nearby customers"
           width={1590}
           height={570}
           className="h-[340px] w-full rounded-xl object-cover shadow-card"

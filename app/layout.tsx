@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     type: 'website',
     title: 'Choices — Decide what to do. Get discovered doing it.',
     description:
-      'One app for discovering restaurants, cafés and activities in the UAE — and a simple way for venues to get discovered by nearby customers.',
+      'One app for discovering restaurants, cafés and activities in the UAE — and a simple way for businesses to get discovered by nearby customers.',
     images: ['/assets/photos/categories.png'],
     locale: 'en_AE',
   },
