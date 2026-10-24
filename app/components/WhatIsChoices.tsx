@@ -19,7 +19,7 @@ export default function WhatIsChoices() {
       </p>
       <p className="text-[17px] leading-[1.7] text-ink/75">
         For the businesses behind those places, Choices is a direct line to people who are deciding
-        right now. List your venue, post real offers, and get discovered by customers nearby — no big
+        right now. List your business, post real offers, and get discovered by customers nearby — no big
         marketing budget required.
       </p>
     </Reveal>

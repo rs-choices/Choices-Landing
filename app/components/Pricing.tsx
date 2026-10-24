@@ -12,7 +12,7 @@ export default function Pricing() {
           Pricing
         </div>
         <h2 className="text-[clamp(26px,3.5vw,36px)] font-semibold text-pretty text-brand-purple">
-          Simple plans for every venue
+          Simple plans for every business
         </h2>
       </div>
 

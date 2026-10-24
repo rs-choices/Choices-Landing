@@ -11,7 +11,7 @@ still a stand-in.
 | `app-showcase/categories.png` | `ForYou`, `InsideTheApp` | App screen: Discover — category tiles, Plan My Day, swipe-to-match. 1179×3075. |
 | `app-showcase/events.png` | `InsideTheApp` | App screen: Events search and featured events, exported at 3×. |
 | `app-showcase/discover.png` | `InsideTheApp` | App screen: Events list at 1×. |
-| `photos/popular-offer-hero.jpg` | `ForBusiness` | 1080×720 venue photo. |
+| `photos/popular-offer-hero.jpg` | `ForBusiness` | 1080×720 photo of a place. |
 | `photos/categories.png` | Open Graph image in `app/layout.tsx` | Same screenshot as `app-showcase/categories.png`. |
 
 ## Stand-in

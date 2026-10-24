@@ -70,7 +70,7 @@ export const steps: Step[] = [
     n: '01',
     icon: 'user',
     title: 'Create your business profile',
-    body: 'Add your venue, hours and photos in a few minutes.',
+    body: 'Add your business, its hours and photos in a few minutes.',
   },
   {
     n: '02',
@@ -137,7 +137,7 @@ export const faqs: Faq[] = [
   },
   {
     q: 'How do customers find my business?',
-    a: 'Customers browse nearby venues and offers in the app. When you post a deal or update your profile, you show up in their search and recommendations.',
+    a: 'Customers browse nearby places and offers in the app. When you post a deal or update your profile, you show up in their search and recommendations.',
   },
 ];
 

@@ -23,7 +23,7 @@ export default function InsideTheApp() {
             What customers see when they open Choices
           </h2>
           <p className="text-[17px] leading-[1.65] text-ink/75">
-            Nearby venues show up as cards with a photo, a live offer, and one tap through to view
+            Nearby places show up as cards with a photo, a live offer, and one tap through to view
             details, save, or book — this is the moment your business gets discovered.
           </p>
         </div>
